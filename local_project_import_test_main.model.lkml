@@ -1,3 +1,4 @@
+## Attention: Update the connection
 connection: "looker-private-demo"
 
 include: "/views/*.view.lkml"                # include all views in the views/ folder in this project
